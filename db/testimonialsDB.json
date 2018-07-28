@@ -1,0 +1,119 @@
+{
+    "Testimonials":[
+    	{
+    		"user":"Dizaum",
+    		"gender":"male",
+    		"message":"This guy is really, really, really, REALLLLYYYY PATIENT......Highly Recommended! Great job!"
+    	},
+    	{
+    		"user":"Jkkoenig",
+    		"gender":"male",
+    		"message":"Is this guy real?.. If you gave clear requirements, he delivers fast, with great thoroughness. Awesome. Thoroughly satisfied repeat customer."
+    	},
+    	{
+    		"user":"Emma Hazen",
+    		"gender":"female",
+    		"message":"Eduard is the only HTML5 & CSS3 programmer I use because he's so darn good. Intuitive and thoughtful about every line of code. Understands the big picture. Delivers exceptional work every time, quickly and efficiently."
+    	},
+    	{
+    		"user":"Jack Mist",
+    		"gender":"male",
+    		"message":"I describe Eduard that is thorough, professional, smart, very meticulous, and does not give up until you are fully satisfied. He provides only superior quality works, a truly gem in this industry."
+    	},
+    	{
+    		"user":"Thomas Ardal",
+    		"gender":"male",
+    		"message":"Damn! Very impressed with the speed and quality of your work. Will use you next time I need something in bootstrap. Great work!"
+    	},
+        {
+            "user":"Jasmine Seaward",
+            "gender":"female",
+            "message":"Eduard totally knows what he's doing. He can think for himself, understands the intent of a project and understands how changes and fixes will affect other aspects of the project, then he puts it altogether, makes improvements you didn't even know you needed, and delivers perfect work."
+        },
+        {
+            "user":"Carol JS.",
+            "gender":"female",
+            "message":"Very fast and efficient and knows his stuff well, no need for complicated explaination. Thanks Eduardo!"
+        },
+        {
+            "user":"Mandrax E.",
+            "gender":"male",
+            "message":"Eduard gave a quick solution to a problem that was giving me a major headache. It's nice to work with a Pro... Thanks so much for the help!"
+        },
+        {
+            "user":"Steve Lothrop",
+            "gender":"male",
+            "message":"This was awesome. Thank you for a site with a quick turn around!! I really like how you took into consideration the parameters I gave you and delivered something with a minimal specification."
+        },
+        {
+            "user":"Vasu Srinivasan",
+            "gender":"male",
+            "message":"I must tell you, whenever i get the work back from Eduard, I become happy. The diligence and the thought he puts in making his work PERFECT!"
+        },
+        {
+            "user":"Vasu Srinivasan",
+            "gender":"male",
+            "message":"Eduard is amazing and simply completes, no matter what the task is. I am a huge fan of him, for the thoroughness, quality and dedication."
+        },
+        {
+            "user":"Resmesh Joseph",
+            "gender":"male",
+            "message":"Great Job. Had to state the requirements and overnight I got the site working perfectly in iPad, iPhone and the computer beautifully. Very Happy with the quality of work."
+        },
+        {
+            "user":"Landon H.",
+            "gender":"male",
+            "message":"This guy! Went above and beyond no questions asked. Was clear in his communication, nice, professional and blazing fast. Could not recommend a better bootstrap coder, even if i wanted to. All hail to the king!"
+        },
+        {
+            "user":"Amarundo",
+            "gender":"male",
+            "message":"This guy has proven again and again that he knows his stuff, plus he goes the extra mile to make you happy."
+        },
+        {
+            "user":"Mimiy K.",
+            "gender":"female",
+            "message":"Eduard did an absolutely OUTSTANDING job. This was a rush project and he delivered everything on a timely basis. The work was perfect, I will definitely be trusting him to work on some larger projects as they come up!"
+        },
+        {
+            "user":"Linus Morris",
+            "gender":"male",
+            "message":"Fantastic service. Very fast, excellent communication and made delivered just what I needed. As Arnold once said... I'll be back !"
+        },
+        {
+            "user":"Goodhuel",
+            "gender":"male",
+            "message":"A true professional that provides a quality product every time."
+        },
+        {
+            "user":"Romain Poirier",
+            "gender":"male",
+            "message":"Eduard is like a second teacher for me. In a very short time, he helped me to solve problems that it was very difficult to resolve by myself."
+        },
+        {
+            "user":"Jasmine Seaward",
+            "gender":"female",
+            "message":"Love this guy! So fast, so talented, so perfect! thanks again, Eduard!"
+        },
+        {
+            "user":"Sarah Peep",
+            "gender":"female",
+            "message":"EPIC work as always! Again we are DELIGHTED with this seller and his results."
+        },
+        {
+            "user":"Lynda",
+            "gender":"female",
+            "message":"Great service as usual! I always come to him because I know he will take good care of me and that it will be done right the first time! I highly recommend working with him!"
+        },
+        {
+            "user":"Deepinthought",
+            "gender":"male",
+            "message":"A great seller with top results. I needed a bit of guidance and Eduard was willing to assist every step of the way. His delivery time was quick and communication was excellent. I recommend him very highly."
+        },
+        {
+            "user":"Notthenormltd",
+            "gender":"male",
+            "message":"Excellent, thank you again!! Eduard went above and beyond to try and help me. He's a star and you'll do well to keep him on board for all your techy troubles. I will."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Posts": [
+        {
+            "id": "post-1",
+            "title": "Post title 1",
+            "author": "Stanescu Eduard-Dan",
+            "date": "30-07-2017",
+            "image": "",
+            "abstract": "Nowadays, many researches aim to describe the relationship between information and communication and the degree of economic development, in an attempt to define the key factors that spur national development. The Information Technology and Communications industry is vital to national competitiveness and has become a key factor for increasing economic performance and quality of life. In this paper the relationship between IT&C and the economic performance will be described, using four data analyses. The economic development of a country was measured through the GDP-per capita indicator, while the IT&C level was represented by an IT&C usage indicator: ISOC – Enterprises. The results highlight the importance of developing the technology, especially the IT&C, as a critical step towards meeting the demands of society and the EU economy. The analyses are oriented towards the moderate developed countries, an particular segment being dedicated to Romania.",
+            "keywords": "IT&C; GDP; ISOC; data analysis"
+        },
+        {
+            "id": "post-2",
+            "title": "Post title 2",
+            "author": "Stanescu Eduard-Dan",
+            "date": "30-07-2017",
+            "image": "",
+            "abstract": "Nowadays, many researches aim to describe the relationship between information and communication and the degree of economic development, in an attempt to define the key factors that spur national development. The Information Technology and Communications industry is vital to national competitiveness and has become a key factor for increasing economic performance and quality of life. In this paper the relationship between IT&C and the economic performance will be described, using four data analyses. The economic development of a country was measured through the GDP-per capita indicator, while the IT&C level was represented by an IT&C usage indicator: ISOC – Enterprises. The results highlight the importance of developing the technology, especially the IT&C, as a critical step towards meeting the demands of society and the EU economy. The analyses are oriented towards the moderate developed countries, an particular segment being dedicated to Romania.",
+            "keywords": "IT&C; GDP; ISOC; data analysis"
+        },
+        {
+            "id": "post-3",
+            "title": "Post title 3",
+            "author": "Stanescu Eduard-Dan",
+            "date": "30-07-2017",
+            "image": "",
+            "abstract": "Nowadays, many researches aim to describe the relationship between information and communication and the degree of economic development, in an attempt to define the key factors that spur national development. The Information Technology and Communications industry is vital to national competitiveness and has become a key factor for increasing economic performance and quality of life. In this paper the relationship between IT&C and the economic performance will be described, using four data analyses. The economic development of a country was measured through the GDP-per capita indicator, while the IT&C level was represented by an IT&C usage indicator: ISOC – Enterprises. The results highlight the importance of developing the technology, especially the IT&C, as a critical step towards meeting the demands of society and the EU economy. The analyses are oriented towards the moderate developed countries, an particular segment being dedicated to Romania.",
+            "keywords": "IT&C; GDP; ISOC; data analysis"
+        },
+        {
+            "id": "post-4",
+            "title": "Post title 4",
+            "author": "Stanescu Eduard-Dan",
+            "date": "30-07-2017",
+            "image": "",
+            "abstract": "Nowadays, many researches aim to describe the relationship between information and communication and the degree of economic development, in an attempt to define the key factors that spur national development. The Information Technology and Communications industry is vital to national competitiveness and has become a key factor for increasing economic performance and quality of life. In this paper the relationship between IT&C and the economic performance will be described, using four data analyses. The economic development of a country was measured through the GDP-per capita indicator, while the IT&C level was represented by an IT&C usage indicator: ISOC – Enterprises. The results highlight the importance of developing the technology, especially the IT&C, as a critical step towards meeting the demands of society and the EU economy. The analyses are oriented towards the moderate developed countries, an particular segment being dedicated to Romania.",
+            "keywords": "IT&C; GDP; ISOC; data analysis"
+        },
+        {
+            "id": "post-5",
+            "title": "Post title 5",
+            "author": "Stanescu Eduard-Dan",
+            "date": "30-07-2017",
+            "image": "",
+            "abstract": "Nowadays, many researches aim to describe the relationship between information and communication and the degree of economic development, in an attempt to define the key factors that spur national development. The Information Technology and Communications industry is vital to national competitiveness and has become a key factor for increasing economic performance and quality of life. In this paper the relationship between IT&C and the economic performance will be described, using four data analyses. The economic development of a country was measured through the GDP-per capita indicator, while the IT&C level was represented by an IT&C usage indicator: ISOC – Enterprises. The results highlight the importance of developing the technology, especially the IT&C, as a critical step towards meeting the demands of society and the EU economy. The analyses are oriented towards the moderate developed countries, an particular segment being dedicated to Romania.",
+            "keywords": "IT&C; GDP; ISOC; data analysis"
+        }
+    ]
+}

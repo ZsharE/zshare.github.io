@@ -1,0 +1,396 @@
+{
+    "Projects": [
+    	{
+            "id": "uhpstore",
+            "name": "UHPStore",
+            "description": "We are the main company for the promotion of vehicles in Chile. Official representatives and in most cases exclusive of the main brands of performance, enhancement and equipment for auto and pilot. UHP is not only an importer but also builds the brands it represents in Chile, providing advice and delivering quality products at an appropriate time and cost.",
+            "image": "uhpstore.png",
+            "project_content": {
+                "website": "https://www.uhpstore.cl",
+                "client": "Ultra High Performance",
+                "date": "2018",
+                "technology": "HTML & CSS, Javascript (jQuery)",
+                "responsability": "frontend development, backend development, responsive design, ux, design, photography",
+                "colors": "#082b43,#1d92cd,#f2f2f2,#ffffff"
+            }
+        },
+        {
+            "id": "elmahio",
+            "name": "Elmah.io",
+            "description": "Meet elmah.io! From development to production, we help you monitoring your website by logging all uncaught errors. Unlike ELMAH, flat files, logging frameworks and similar, all of your errors are indexed and made searchable. Once logged, we will notify you on a channel of your choice (mail, Slack, HipChat etc.). When you get that notification, we provide you with the tools necessary to fix errors fast. Combining answers from social media with a lot of contextual information about the error, will help you fix bugs at supersonic speed.",
+            "image": "elmahio.png",
+            "project_content": {
+                "website": "https://elmah.io",
+                "client": "elmah.io ApS",
+                "date": "2018",
+                "technology": "HTML & CSS, Javascript (jQuery)",
+                "responsability": "frontend development, responsive design, ux, design, photography",
+                "colors": "#393939,#168b96,#17a69a,#f5f5f5,#ffffff"
+            }
+        },
+        {
+            "id": "wellcode",
+            "name": "WellCode",
+            "description": "Invata programare de la zero.",
+            "image": "wellcode.png",
+            "project_content": {
+                "website": "https://wellcode.ro",
+                "client": "WellCode PB SRL",
+                "date": "2018",
+                "technology": "HTML & CSS, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, photography",
+                "colors": "#4680ff,#ffb822,#f2f3f8,#ffffff"
+            }
+        },
+    	{
+            "id": "12-fragmentos",
+            "name": "Doce fragmentos de una historia",
+            "description": "Know # 12Fragments of a History. Tales that reveal Chile's human dignity.",
+            "image": "fragmentos.png",
+            "project_content": {
+                "website": "http://fragmentos.hogardecristo.cl",
+                "client": "Hogar de Cristo",
+                "date": "2017",
+                "technology": "HTML & CSS, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, photography",
+                "colors": "#020100,#c16414,#ffffff"
+            }
+        },
+        {
+            "id": "steel-signet",
+            "name": "Steel Signet",
+            "description": "Custom made, hand engraved signet rings of gold and steel.",
+            "image": "steelsignet.png",
+            "project_content": {
+                "website": "http://steelsignet.com",
+                "client": "Steel Signet",
+                "date": "2017",
+                "technology": "Javascript (jQuery), PHP",
+                "responsability": "responsive design, backend development",
+                "colors": "#000000,#d8c26c,#ffffff"
+            }
+        },
+        {
+            "id": "barba-larga",
+            "name": "Barba Larga",
+            "description": "Online shop with products from Chile for the care of beard, mustache and hair. Shave oil, shaving shampoo, mustache wax.",
+            "image": "barbalarga.png",
+            "project_content": {
+                "website": "https://www.barbalarga.cl",
+                "client": "Barba Larga",
+                "date": "2017",
+                "technology": "HTML & CSS, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, cms integration, photography",
+                "colors": "#000000,#d8c26c,#ffffff"
+            }
+        },
+        {
+            "id": "born-in-bradford",
+            "name": "Born in Bradford",
+            "description": "The Born In Bradford project is one of the largest cohort studies in the world, the aim of the project is to find out more about the causes of childhood illness by studying 13,500  children from different cultures and backgrounds.",
+            "image": "borninbradford.png",
+            "project_content": {
+                "website": "https://borninbradford.nhs.uk",
+                "client": "NHS",
+                "date": "2017",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, wordpress, ux, design, cms integration, photography",
+                "colors": "#0F79BE,#00A650,#ECE8E0,#F3F0EB"
+            }
+        },
+        {
+            "id": "chilean-barber-lastarria",
+            "name": "Chilean Barber Lastarria",
+            "description": "The largest classic barbershop of Chile. Developing a concept of classical barbershop Barber Chilean Lastarria. We receive you with class, history and relics of yesteryear. They are the path of 100m2 barbershop. A team of over 15 people who are part of this whole experience. We just want to make a time for men delirium of your mind, motivation of your spirit, the strength of your image. Prepare men who take the field is our duty to support our customers in Chilean Barber. Come and discover us.",
+            "image": "chileanbarberlastarria.png",
+            "project_content": {
+                "website": "http://www.chileanbarberlastarria.cl",
+                "client": "Chilean Barber Lastarria",
+                "date": "2017",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design, photography",
+                "colors": "#010101,#171717,#d8bd52,#eaeaea"
+            }
+        },
+        {
+            "id": "espiritu-de-argentina",
+            "name": "Espiritu de Argentina",
+            "description": "Argentina is the home of rugged gauchos, legendary argentinean cattle and endless expanses of space. The terrain is ideal for great wines full of character.",
+            "image": "espiritudeargentina.png",
+            "project_content": {
+                "website": "http://www.espiritu-de-argentina.cl",
+                "client": "Espiritu de Argentina",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#099ec9,#e7e7e8,#ffffff"
+            }
+        },
+        {
+            "id": "aresti-chile-wines",
+            "name": "ACW - Aresti Chile Winery",
+            "description": "One of the most prestigious family-run wine operations in Chile.",
+            "image": "acw.png",
+            "project_content": {
+                "website": "http://www.acw.cl",
+                "client": "Aresti Chile Wines",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#000000,#ffffff"
+            }
+        },
+        {
+            "id": "codigo-de-familia",
+            "name": "Codigo de Familia",
+            "description": "A modern wine, full of nuances, that honors its origins.",
+            "image": "codigo.png",
+            "project_content": {
+                "website": "http://www.codigodefamilia.com",
+                "client": "Codigo de Familia",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, photography",
+                "colors": "#010101,#db520a,#c8945d,#ffffff"
+            }
+        },
+        {
+            "id": "eco-espacios",
+            "name": "ECO Espacios",
+            "description": "Sustainable landscaping..",
+            "image": "ecoespacios.png",
+            "project_content": {
+                "website": "http://ecoespacios.cl",
+                "client": "ECO Espacios",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#729601,#f26522,#e8f0ce"
+            }
+        },
+        {
+            "id": "montemar",
+            "name": "Montemar Wines",
+            "description": "Montemar wines reflects the artwork within nature and terroir of Chilean’s unique wine landscape.",
+            "image": "montemar.png",
+            "project_content": {
+                "website": "http://montemarwines.com",
+                "client": "Montemar Wines",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#1d1d1b,#9c9b9b,#ffffff"
+            }
+        },
+        {
+            "id": "personality-wines",
+            "name": "Personality - Espritu de Chile",
+            "description": "Personality is the new line of wines from Espíritu de Chile who comes to give life and personality to the best known strains of the wine world.",
+            "image": "personality.png",
+            "project_content": {
+                "website": "http://personalitywines.com",
+                "client": "Espritu de Chile",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, photography",
+                "colors": "#000000,#798999,#e8c42e,#c5d1e9,#cfdeb3,#f3f6e3"
+            }
+        },
+        {
+            "id": "hola-pyme",
+            "name": "Hola Pyme",
+            "description": "Promote your business in a community made up of hundreds of entrepreneurs like you.",
+            "image": "holapyme.png",
+            "project_content": {
+                "website": "http://holapyme.cl",
+                "client": "Hola Pyme",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#30a29d,#eda623,#fafbf8"
+            }
+        },
+        {
+            "id": "jota-master-barber",
+            "name": "Jota Master Barber",
+            "description": "Barber shop.",
+            "image": "jotamasterbarber.png",
+            "project_content": {
+                "website": "http://jotamasterbarber.cl",
+                "client": "Jota Master Barber",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#040404,#161616,#7b6848,#eec681"
+            }
+        },
+        {
+            "id": "dumpster",
+            "name": "Dumpster",
+            "description": "The freedom to make mistakes.",
+            "image": "dumpster.png",
+            "project_content": {
+                "website": "http://dumpsterapp.mobi",
+                "client": "Baloota Apps",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#040404,#161616,#7b6848,#eec681"
+            }
+        },
+        {
+            "id": "alls-well",
+            "name": "All's Well",
+            "description": "Filtration, pumping and maintenance solutions.",
+            "image": "allswell.png",
+            "project_content": {
+                "website": "http://allswell.ca",
+                "client": "All's Well Filtration & Pumping Solutions",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#0c71c3,#f4f4f4,#ffffff"
+            }
+        },
+        {
+            "id": "inspire-lounge",
+            "name": "Inspire Lounge",
+            "description": "Event. Dance club. Cafe.",
+            "image": "inspirelounge.png",
+            "project_content": {
+                "website": "http://inspire-lounge.ro",
+                "client": "Funky Caffe",
+                "date": "2016",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design, photography",
+                "colors": "#1b1e20,#f9c56a,#f3f1ed,#ffffff"
+            }
+        },
+        {
+            "id": "verdacci",
+            "name": "Verdacci",
+            "description": "Luxury is simply a state of comfort.",
+            "image": "verdacci.png",
+            "project_content": {
+                "website": "http://verdacci.com",
+                "client": "Verdacci LTD",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, wordpress, ux, design, cms integration, photography",
+                "colors": "#000000,#181818,#662020,#d3b362"
+            }
+        },
+        {
+            "id": "anterra",
+            "name": "Anterra",
+            "description": "Transport and logistics.",
+            "image": "anterra.png",
+            "project_content": {
+                "website": "http://anterra.cl",
+                "client": "Anterra",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#77b700,#96c269,#ffffff"
+            }
+        },
+        {
+            "id": "rutasur-cargo",
+            "name": "RutaSur Cargo",
+            "description": "Maritime and air transport.",
+            "image": "rutasurcargo.png",
+            "project_content": {
+                "website": "http://rutasurcargo.cl",
+                "client": "RutaSur Cargo",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#4693d0,#ebebeb,#ffffff"
+            }
+        },
+        {
+            "id": "cloud-and-media",
+            "name": "Cloud & Media",
+            "description": "Web design, digital marketing and media.",
+            "image": "cloudandmedia.png",
+            "project_content": {
+                "website": "http://cloudandmedia.cl",
+                "client": "Cloud & Media",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#212c39,#283646,#eeeff1,#ffffff"
+            }
+        },
+        {
+            "id": "pontificia-universidad-catolica-de-chile",
+            "name": "Pontificia Universidad Católica de Chile",
+            "description": "One of the main Chilean higher education institutions.",
+            "image": "pontificiauniversidad.png",
+            "project_content": {
+                "website": "http://innovacion.uc.cl/postula",
+                "client": "Pontificia Universidad Católica de Chile",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#073e8d,#ffc15c,#f7f7f7,#ffffff"
+            }
+        },
+        {
+            "id": "rimonet",
+            "name": "Rimonet",
+            "description": "Telecommunications.",
+            "image": "rimonet.png",
+            "project_content": {
+                "website": "http://rimonet.cl",
+                "client": "Rimonet",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery), PHP",
+                "responsability": "responsive design, frontend development, backend development, ux, design",
+                "colors": "#232323,#4a95bc,#ffffff"
+            }
+        },
+        {
+            "id": "nestle-milioane-de-imbratisari",
+            "name": "Nestle - Milioane de imbratisari",
+            "description": "Campanie Nestle - Milioane de imbratisari.",
+            "image": "milioanedeimbratisari.png",
+            "project_content": {
+                "website": "http://www.milioanedeimbratisari.ro",
+                "client": "Nestle",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#064995,#31a8db,#ffcb91,#ffffff"
+            }
+        },
+        {
+            "id": "nestle-baby",
+            "name": "Nestle Baby",
+            "description": "Incepe sanatos, creste sanatos.",
+            "image": "nestlebaby.png",
+            "project_content": {
+                "website": "https://www.nestlebaby.ro",
+                "client": "Nestle",
+                "date": "2015",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design",
+                "colors": "#064995,#31a8db,#ffcb91,#ffffff"
+            }
+        },
+        {
+            "id": "rezolvari-atestat-informatica",
+            "name": "Rezolvari atestat informatica",
+            "description": "Subiecte si rezolvari complete (Office, Visual FoxPro, Borland C++) pentru examenul de atestat la informatica.",
+            "image": "atestatinformatica.png",
+            "project_content": {
+                "website": "http://atestatrezolvari.hi2.ro",
+                "client": "Personal project",
+                "date": "2014",
+                "technology": "Bootstrap Framework, Javascript (jQuery)",
+                "responsability": "responsive design, frontend development, ux, design, photography",
+                "colors": "#292f38,#2e363f,#6bc4ea,#f7f7f7"
+            }
+        }
+    ]
+}
